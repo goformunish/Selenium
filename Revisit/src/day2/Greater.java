@@ -17,6 +17,7 @@ public class Greater {
 		else 
 		{
 			System.out.println("Second number is greater");
+			System.out.println("This is also fine");
 		}
 		
 	}
